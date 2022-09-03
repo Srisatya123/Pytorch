@@ -11,3 +11,7 @@ pip install -r requirements.txt
 echo [$(date)]: "END"
 
 echo " After this to activate env  use : condaP activate ./env"
+echo " After this to activate env  use : conda activate ./env"
+echo "jupyter-notebook"
+
+echo "conda env export > conda_env.yaml"
